@@ -9,6 +9,6 @@ fun reverseWords(s: String): String {
             if (i != 0) res += " "
         }
     }
-    return if (res.last().isWhitespace()) res.substring(0, res.lastIndex) else res
+    return res.trim()
 }
 }
