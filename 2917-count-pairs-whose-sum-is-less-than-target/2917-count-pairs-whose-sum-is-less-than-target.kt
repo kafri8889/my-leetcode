@@ -1,18 +1,23 @@
 class Solution {
 fun countPairs(nums: List<Int>, target: Int): Int {
-    var i = 0
-    var j = 1
+    var p = 0
+    var i = 1
+    var j = nums.lastIndex
     var count = 0
-    while (i < nums.lastIndex) {
-        if (nums[i] + nums[j] < target) count++
-        
-        if (j == nums.lastIndex) {
-            i++
-            j = i + 1
+    while (p < nums.lastIndex) {
+        if (nums[p] + nums[i] < target) count++
+        if (nums[p] + nums[j] < target && i != j) count++
+
+        // genap || ganjil
+        if ((j - 1 == i && i + 1 == j) || j == i) {
+            p++
+            i = p + 1
+            j = nums.lastIndex
             continue
         }
 
-        j++
+        i++
+        j--
     }
     return count
 }
