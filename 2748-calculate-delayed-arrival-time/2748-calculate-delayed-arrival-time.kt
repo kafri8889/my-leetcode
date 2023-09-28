@@ -1,6 +1,5 @@
 class Solution {
 fun findDelayedArrivalTime(arrivalTime: Int, delayedTime: Int): Int {
-    val sum = arrivalTime + delayedTime
-    return if (sum < 24) sum else sum - 24
+    return (arrivalTime + delayedTime).let { if (it < 24) it else it - 24 }
 }
 }
