@@ -1,13 +1,11 @@
 class Solution {
 fun numberOfSteps(num: Int): Int {
-    var mnum = num
-    var steps = 0
-
-    while (mnum > 0) {
-        if (mnum % 2 == 0) mnum /= 2 else mnum--
-        steps++
+    return num.toString(2).foldIndexed(0) { i, acc, binary ->
+        when {
+            (i == 0 && binary.digitToInt() == 1) || (binary.digitToInt() == 0 && i != 0) -> acc + 1
+            binary.digitToInt() == 1 -> acc + 2
+            else -> acc
+        }
     }
-
-    return steps
 }
 }
