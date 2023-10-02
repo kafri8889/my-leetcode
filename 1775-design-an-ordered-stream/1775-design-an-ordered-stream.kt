@@ -1,6 +1,6 @@
 class OrderedStream(private val n: Int) {
 
-    private val arr = Hashtable<Int, String>()
+    private val arr = HashMap<Int, String>()
     private var pointer = 1
 
     fun insert(idKey: Int, value: String): List<String> {
