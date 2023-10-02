@@ -1,16 +1,16 @@
-class OrderedStream(private val n: Int) {
+class OrderedStream(n: Int) {
 
-    private val arr = HashMap<Int, String>()
-    private var pointer = 1
+    private val arr = Array(n) { "" }
+    private var pointer = 0
 
     fun insert(idKey: Int, value: String): List<String> {
-        arr[idKey] = value
+        arr[idKey - 1] = value
 
         // Cek jika idKey sama dengan pointer, maka pindahkan pointer
-        if (idKey == pointer) {
+        if (idKey - 1 == pointer) {
             return arrayListOf<String>().apply {
-                while (!arr[pointer].isNullOrBlank()) {
-                    add(arr[pointer]!!).also { pointer++ }
+                while (!arr.getOrNull(pointer).isNullOrBlank()) {
+                    add(arr[pointer]).also { pointer++ }
                 }
             }
 
