@@ -10,7 +10,7 @@ fun binarySearchMatrix(array: Array<IntArray>, x: Int, low: Int, high: Int): Boo
         val j = mid % array[0].size
 
         return when {
-            array.getOrNull(i)?.getOrNull(j) == null -> return false
+            array.getOrNull(i)?.getOrNull(j) == null -> false
             array[i][j] == x -> true
             array[i][j] < x -> binarySearchMatrix(array, x, mid + 1, high)
             array[i][j] > x -> binarySearchMatrix(array, x, low, mid - 1)
