@@ -1,9 +1,21 @@
 class Solution {
 fun searchMatrix(matrix: Array<IntArray>, target: Int): Boolean {
-    // for loop from 0 until m x n matrix size
-    for (n in 0 until matrix.size * matrix[0].size) {
-        // Convert 1D array index to 2D array index
-        if (matrix[n / matrix[0].size][n % matrix[0].size] == target) return true
+    return binarySearchMatrix(matrix, target, 0, matrix.size * matrix[0].size)
+}
+
+fun binarySearchMatrix(array: Array<IntArray>, x: Int, low: Int, high: Int): Boolean {
+    if (high >= low) {
+        val mid = low + (high - low) / 2
+        val i = mid / array[0].size
+        val j = mid % array[0].size
+
+        return when {
+            array.getOrNull(i)?.getOrNull(j) == null -> return false
+            array[i][j] == x -> true
+            array[i][j] < x -> binarySearchMatrix(array, x, mid + 1, high)
+            array[i][j] > x -> binarySearchMatrix(array, x, low, mid - 1)
+            else -> false
+        }
     }
 
     return false
