@@ -11,19 +11,19 @@ val romanMap = mapOf(
 
 fun romanToInt(s: String): Int {
     var i = 0
-    val nums = arrayListOf<Int>()
+    var sum = 0
     while (i < s.length) {
-        when {
-            s[i] == 'I' && s.getOrNull(i + 1) == 'V' -> nums.add(4).also { i++ }
-            s[i] == 'I' && s.getOrNull(i + 1) == 'X' -> nums.add(9).also { i++ }
-            s[i] == 'X' && s.getOrNull(i + 1) == 'L' -> nums.add(40).also { i++ }
-            s[i] == 'X' && s.getOrNull(i + 1) == 'C' -> nums.add(90).also { i++ }
-            s[i] == 'C' && s.getOrNull(i + 1) == 'D' -> nums.add(400).also { i++ }
-            s[i] == 'C' && s.getOrNull(i + 1) == 'M' -> nums.add(900).also { i++ }
-            else -> nums.add(romanMap[s[i]]!!)
+        sum += when {
+            s[i] == 'I' && s.getOrNull(i + 1) == 'V' -> 4.also { i++ }
+            s[i] == 'I' && s.getOrNull(i + 1) == 'X' -> 9.also { i++ }
+            s[i] == 'X' && s.getOrNull(i + 1) == 'L' -> 40.also { i++ }
+            s[i] == 'X' && s.getOrNull(i + 1) == 'C' -> 90.also { i++ }
+            s[i] == 'C' && s.getOrNull(i + 1) == 'D' -> 400.also { i++ }
+            s[i] == 'C' && s.getOrNull(i + 1) == 'M' -> 900.also { i++ }
+            else -> romanMap[s[i]]!!
         }
         i++
     }
-    return nums.sum()
+    return sum
 }
 }
