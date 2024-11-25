@@ -17,9 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/kafri8889/my-leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/kafri8889/my-leetcode/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
