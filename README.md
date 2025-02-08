@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/kafri8889/my-leetcode/tree/master/0392-is-subsequence) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/kafri8889/my-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kafri8889/my-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3567-convert-date-to-binary](https://github.com/kafri8889/my-leetcode/tree/master/3567-convert-date-to-binary) |
 ## Counting
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/kafri8889/my-leetcode/tree/master/0728-self-dividing-numbers) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/kafri8889/my-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kafri8889/my-leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3371-harshad-number](https://github.com/kafri8889/my-leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kafri8889/my-leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
