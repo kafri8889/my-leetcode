@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/kafri8889/my-leetcode/tree/master/0728-self-dividing-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kafri8889/my-leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3371-harshad-number](https://github.com/kafri8889/my-leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kafri8889/my-leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
