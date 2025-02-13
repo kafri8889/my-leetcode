@@ -1,19 +1,22 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
-        HashMap<Character, String> allowedMap = new HashMap<>();
+        HashSet<Character> allowedSet = new HashSet<>();
         int count = 0;
 
         for (char ca: allowed.toCharArray()) {
-            allowedMap.put(ca, "");
+            allowedSet.add(ca);
         }
 
-        mainLoop:
         for (String s: words) {
+            boolean consistent = true;
             for (char c : s.toCharArray()) {
-                if (!allowedMap.containsKey(c)) continue mainLoop;
+                if (!allowedSet.contains(c)) {
+                    consistent = false;
+                    break;
+                }
             }
 
-            count++;
+            if (consistent) count++;
         }
 
         return count;
