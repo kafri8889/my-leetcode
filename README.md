@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kafri8889/my-leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kafri8889/my-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kafri8889/my-leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kafri8889/my-leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/kafri8889/my-leetcode/tree/master/0728-self-dividing-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kafri8889/my-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kafri8889/my-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kafri8889/my-leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3371-harshad-number](https://github.com/kafri8889/my-leetcode/tree/master/3371-harshad-number) |
