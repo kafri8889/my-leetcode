@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kafri8889/my-leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/kafri8889/my-leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kafri8889/my-leetcode/tree/master/0392-is-subsequence) |
 ## Array
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kafri8889/my-leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kafri8889/my-leetcode/tree/master/0118-pascals-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kafri8889/my-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kafri8889/my-leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
