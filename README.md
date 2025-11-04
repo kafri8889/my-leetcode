@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kafri8889/my-leetcode/tree/master/0118-pascals-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kafri8889/my-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kafri8889/my-leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kafri8889/my-leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kafri8889/my-leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kafri8889/my-leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kafri8889/my-leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kafri8889/my-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
