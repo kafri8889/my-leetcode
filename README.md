@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kafri8889/my-leetcode/tree/master/0118-pascals-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kafri8889/my-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kafri8889/my-leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kafri8889/my-leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kafri8889/my-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kafri8889/my-leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kafri8889/my-leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
