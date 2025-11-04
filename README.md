@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kafri8889/my-leetcode/tree/master/0001-two-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kafri8889/my-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kafri8889/my-leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kafri8889/my-leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kafri8889/my-leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kafri8889/my-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kafri8889/my-leetcode/tree/master/0118-pascals-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kafri8889/my-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kafri8889/my-leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kafri8889/my-leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kafri8889/my-leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
