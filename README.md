@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kafri8889/my-leetcode/tree/master/0118-pascals-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kafri8889/my-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kafri8889/my-leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kafri8889/my-leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kafri8889/my-leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
+| [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -78,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kafri8889/my-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/kafri8889/my-leetcode/tree/master/1642-water-bottles) |
+| [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/kafri8889/my-leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kafri8889/my-leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kafri8889/my-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
