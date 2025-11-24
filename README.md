@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kafri8889/my-leetcode/tree/master/0001-two-sum) |
+| [0409-longest-palindrome](https://github.com/kafri8889/my-leetcode/tree/master/0409-longest-palindrome) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kafri8889/my-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kafri8889/my-leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/kafri8889/my-leetcode/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/kafri8889/my-leetcode/tree/master/0409-longest-palindrome) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kafri8889/my-leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kafri8889/my-leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/kafri8889/my-leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/kafri8889/my-leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
