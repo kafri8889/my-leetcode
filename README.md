@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/kafri8889/my-leetcode/tree/master/0392-is-subsequence) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kafri8889/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/kafri8889/my-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kafri8889/my-leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kafri8889/my-leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kafri8889/my-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kafri8889/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kafri8889/my-leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/kafri8889/my-leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kafri8889/my-leetcode/tree/master/0088-merge-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kafri8889/my-leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kafri8889/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/kafri8889/my-leetcode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
