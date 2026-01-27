@@ -1,6 +1,8 @@
+import java.util.Hashtable
+
 class Solution {
 fun decodeMessage(key: String, message: String): String {
-    val hashMap = HashMap<Char, Char>() // key, act
+    val hashMap = Hashtable<Char, Char>() // key, act
     var cCode = 'a'.code - 1
     var decoded = ""
 
